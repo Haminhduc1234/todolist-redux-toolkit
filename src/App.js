@@ -13,14 +13,15 @@ function App() {
         margin: '0 auto',
         display: 'flex',
         flexDirection: 'column',
-        backgroundColor: 'white',
+        backgroundColor: '#fab1a0',
         padding: 20,
         boxShadow: '0 0 10px 4px #bfbfbf',
         borderRadius: 5,
         height: '90vh',
       }}
     >
-      <Title style={{ textAlign: 'center' }}>#duchaminh</Title>
+      <Title style={{ textAlign: 'center' }}>To Do App</Title>
+      <Title style={{ textAlign: 'center', fontSize: '20px' }}>#duchaminh</Title>
       <Filters />
       <Divider />
       <TodoList />
