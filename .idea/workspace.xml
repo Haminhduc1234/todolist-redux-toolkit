@@ -28,8 +28,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/GitHub/todolist-redux-toolkit&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -76,7 +78,7 @@
       <workItem from="1666719568617" duration="4480000" />
       <workItem from="1666725052377" duration="339000" />
       <workItem from="1666749408517" duration="1365000" />
-      <workItem from="1666750809306" duration="183000" />
+      <workItem from="1666750809306" duration="513000" />
     </task>
     <task id="LOCAL-00001" summary="add new edit">
       <created>1666750336589</created>
@@ -92,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666750838214</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new edit">
+      <created>1666751073475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666751073475</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add new edit">
+      <created>1666751111154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666751111154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
