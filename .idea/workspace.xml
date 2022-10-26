@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54d6a851-77c5-4190-9428-9372499dcc01" name="Changes" comment="add new edit" />
+    <list default="true" id="54d6a851-77c5-4190-9428-9372499dcc01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,14 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2e129e84-12a3-4758-9c75-5f1e67e39383" />
+        <option name="url" value="https://github.com/Haminhduc1234/todolist-redux-toolkit.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -79,6 +89,7 @@
       <workItem from="1666725052377" duration="339000" />
       <workItem from="1666749408517" duration="1365000" />
       <workItem from="1666750809306" duration="513000" />
+      <workItem from="1666751359685" duration="556000" />
     </task>
     <task id="LOCAL-00001" summary="add new edit">
       <created>1666750336589</created>
@@ -108,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666751111154</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new edit">
+      <created>1666751478291</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666751478291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
