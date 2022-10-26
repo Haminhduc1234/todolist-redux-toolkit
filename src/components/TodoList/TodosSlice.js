@@ -14,7 +14,7 @@ export default createSlice({
       completed: true,
       priority: "Low",
     },
-    { 
+    {
       id: 3,
       name: "Learn Redux",
       completed: false,

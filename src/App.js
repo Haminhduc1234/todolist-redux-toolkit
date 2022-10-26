@@ -1,7 +1,7 @@
-import { Typography, Divider } from "antd";
-import "./App.css";
-import TodoList from "./components/TodoList";
-import Filters from "./components/Filters";
+import { Typography, Divider } from 'antd';
+import './App.css';
+import TodoList from './components/TodoList';
+import Filters from './components/Filters';
 
 const { Title } = Typography;
 
@@ -10,20 +10,18 @@ function App() {
     <div
       style={{
         width: 500,
-        margin: "0 auto",
-        display: "flex",
-        flexDirection: "column",
-        backgroundColor: "white",
+        margin: '0 auto',
+        display: 'flex',
+        flexDirection: 'column',
+        backgroundColor: '#fab1a0',
         padding: 20,
-        boxShadow: "0 0 10px 4px #bfbfbf",
+        boxShadow: '0 0 10px 4px #bfbfbf',
         borderRadius: 5,
-        height: "90vh",
+        height: '90vh',
       }}
     >
-      <Title style={{ textAlign: "center" }}>To Do App</Title>
-      <Title style={{ textAlign: "center", fontSize: "20px" }}>
-        #duchaminh
-      </Title>
+      <Title style={{ textAlign: 'center' }}>To Do App</Title>
+      <Title style={{ textAlign: 'center', fontSize: '20px' }}>#duchaminh</Title>
       <Filters />
       <Divider />
       <TodoList />
