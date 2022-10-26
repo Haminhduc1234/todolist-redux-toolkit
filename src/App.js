@@ -13,7 +13,7 @@ function App() {
         margin: '0 auto',
         display: 'flex',
         flexDirection: 'column',
-        backgroundColor: '#fab1a0',
+        backgroundColor: 'white',
         padding: 20,
         boxShadow: '0 0 10px 4px #bfbfbf',
         borderRadius: 5,
